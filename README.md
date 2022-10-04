@@ -9,4 +9,4 @@ In the next 3 months I am looking to learn the following things:
 - tools for front-end development
 - tools for back-end development
 - how to create APIs
-- learn everythingn there is to know about REACT.
+- learn everythingn there is to know about REACT
