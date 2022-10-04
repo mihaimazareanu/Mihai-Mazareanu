@@ -12,6 +12,8 @@ In the next 3 months I am looking to learn the following things:
 - how to create APIs
 - learn everythingn there is to know about REACT
 
+But until then, here are a few tutorials that I find very useful for anyone to have:
+
 ## Tutorials
 - ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
 - ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
