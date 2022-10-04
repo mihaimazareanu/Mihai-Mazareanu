@@ -1,6 +1,6 @@
-# Welcome to my profile.
+# Hello everyone 👋 and welcome to my GitHub profile.
 
-My name is Mihai and after 18+ years spent in the transport and logistics industry, I am trying to make a carrer change and switch to web development.
+My name is Mihai and after 18+ years spent in the transport and logistics industry, I have decided to make a carrer change and switch to web development. It is time to take something that was just a hobby to the next level.
 
 That's why I have decided to start a bootcamp with neue fische. 
 
