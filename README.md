@@ -1,22 +1,30 @@
-# Hello everyone 👋 and welcome to my GitHub profile.
+# 🌟 Crafting Digital Experiences: Web Development with Passion!
 
-My name is Mihai and after 18+ years spent in the transport and logistics industry, I have decided to make a carrer change and switch to web development. It is time to take something that was just a hobby to the next level.
+###👨‍💻 About Me
+I'm a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. As a beginner, I'm constantly expanding my knowledge and honing my skills to deliver top-notch solutions. I enjoy creating visually appealing and user-friendly websites that provide a seamless experience.
 
-That's why I have decided to start a bootcamp with neue fische. 
+### 🔧 Tech Stack
+- 💻 HTML | CSS | JavaScript
+- ⚛️ React | Next.js
+- 📦 Node.js | MongoDB | Mongoose
+- ⚙️ Git | GitHub
+- 🎨 Figma | styled-components
 
-![logo neue fische](https://lh4.googleusercontent.com/-d9ZHn_yQhkk/AAAAAAAAAAI/AAAAAAAAAAA/rHKUrekBSrw/s88-p-k-no-ns-nd/photo.jpg)
+### 📚 Learning and Growing
+I believe in the power of continuous learning and keeping up with the latest industry trends. Currently, I'm exploring various frameworks and libraries, such as React and Next.js, to build dynamic and responsive web applications. With Node.js and MongoDB, I can create robust backends and handle data efficiently. Git and GitHub are my go-to tools for version control and collaboration. I also utilize Figma for designing intuitive user interfaces, and styled-components to bring my designs to life.
 
-In the next 3 months I am looking to learn the following things:
-- tools for front-end development
-- tools for back-end development
-- how to create APIs
-- learn everythingn there is to know about REACT
+### 🌟 Projects
+Check out some of my notable projects:
+- [sdanundverkauf.de](https://sdanundverkauf.de) - My first website as freelancer for a client who needed a website to show live gold and silver prices based on their purity. I created this using React.js and its framework Next.js. For styling I used Figma and implemented the design using styled-components.
+- [kidsFi](https://kidsfi.vercel.app) - This was my final project for my web development bootcamp. I created it using React.js and Next.js, together with a MongoDB databank. Styling was done with Figma and implemented with styed-components.
+- [M-M-Residence](https://m-m-residence.vercel.app) - This was a private project for my wife and me to help visitors staying at our home via (https://homeexchange.com) get a more detailed idea about what to do when they are here and for logged in users, get detailed information about our home. The app was created with React.js and Next.js and it connects to a MongoDB database. For styling I used a Figma file which I implemented by using styled-components.
+- [My portofolio page](https://mihai.vercel.app) - Portofolio webpage built with React.js and Next.js. I created the design using Figma and implemented it with styled-components. 
 
-But until then, here are a few tutorials that I find very useful for anyone to have:
+### 📞 Let's Connect
+I'm open to exciting job opportunities or freelance projects. Feel free to reach out to me via:
+- 🌐 [Email](mailto:mihai.mazareanu@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mihai-mazareanu/)
+- 🌐 [XING](https://www.xing.com/profile/Mihai_Mazareanu/cv)
+- 🌐 [Portfolio](https://mihai.vercel.app)
 
-## Tutorials
-- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
-- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
-- ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
-- ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
-- ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
+🚀 Let's collaborate and bring your ideas to life! I'm ready to take on new challenges and contribute to innovative web projects.
