@@ -1,6 +1,6 @@
 # 🌟 Crafting Digital Experiences: Web Development with Passion!
 
-###👨‍💻 About Me
+### 👨‍💻 About Me
 I'm a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. As a beginner, I'm constantly expanding my knowledge and honing my skills to deliver top-notch solutions. I enjoy creating visually appealing and user-friendly websites that provide a seamless experience.
 
 ### 🔧 Tech Stack
