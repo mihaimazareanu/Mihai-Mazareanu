@@ -5,7 +5,7 @@ I'm a passionate web developer with a strong foundation in HTML, CSS, and JavaSc
 
 ## 🔧 Tech Stack
 - 💻 HTML | CSS | JavaScript
-- ⚛️ React | Next.js
+- ⚛️ React | Next.js | TypeScript
 - 📦 Node.js | MongoDB | Mongoose
 - ⚙️ Git | GitHub
 - 🎨 Figma | styled-components | Tailkwind CSS
