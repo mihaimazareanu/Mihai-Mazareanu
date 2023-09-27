@@ -8,7 +8,7 @@ I'm a passionate web developer with a strong foundation in HTML, CSS, and JavaSc
 - ⚛️ React | Next.js
 - 📦 Node.js | MongoDB | Mongoose
 - ⚙️ Git | GitHub
-- 🎨 Figma | styled-components
+- 🎨 Figma | styled-components | Tailkwind CSS
 
 ## 📚 Learning and Growing
 I believe in the power of continuous learning and keeping up with the latest industry trends. Currently, I'm exploring various frameworks and libraries, such as React and Next.js, to build dynamic and responsive web applications. With Node.js and MongoDB, I can create robust backends and handle data efficiently. Git and GitHub are my go-to tools for version control and collaboration. I also utilize Figma for designing intuitive user interfaces, and styled-components to bring my designs to life.
